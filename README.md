@@ -4,7 +4,7 @@
 ### Memoria DRAM
 ### POST
 ## Configuracion de Switch de red
-**show startup-config** configuracion que se carga cuando inicia
+**show startup-config** configuracion que se carga cuando inicia \n
 **show ruunning-config** configuracion que se esta arancando en el momento
 ### Basica inicial
 ### Conf de red y Vlans
