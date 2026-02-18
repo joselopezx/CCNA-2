@@ -11,3 +11,9 @@
 ### Conf de red y Vlans
 ### Seguridad y control de trafico
 ### Mantenimiento y monitoreo
+
+### Comandos
+*enable* : permite entrar al modo administrador
+*show* :
+
+
