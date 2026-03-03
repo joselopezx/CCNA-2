@@ -16,9 +16,8 @@
 *enable* : permite entrar al modo administrador
 *show* :
 
-Etapa | Objetivo | Actividades clave | Comandos
-------|----------|-------------------|-------------
-1. Preparacion inicial (acceso basico) | Acceder y asegurar el equipo | Consola, modo privilegiado, hostnamem contraseñas, banner | enable
-------|----------|-------------------|-------------
+| Etapa | Objetivo | Actividades clave | Comandos |
+|-------|----------|-------------------|----------|
+| 1. Preparación inicial (acceso básico) | Acceder y asegurar el equipo | Consola, modo privilegiado, hostname, contraseñas, banner | `enable` |
 
 
