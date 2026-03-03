@@ -8,7 +8,7 @@
 
 **show ruunning-config** configuracion que se esta arancando en el momento
 ### Basica inicial
-`enable`- Modo privilegiado 
+`enable`- Modo privilegiado  
 `configure terminal` - modo configuracion global
 ### Conf de red y Vlans
 ### Seguridad y control de trafico
