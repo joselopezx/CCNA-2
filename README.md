@@ -18,6 +18,9 @@
 
 | Etapa | Objetivo | Actividades clave | Comandos |
 |-------|----------|-------------------|----------|
-| 1. Preparación inicial (acceso básico) | Acceder y asegurar el equipo | Consola, modo privilegiado, hostname, contraseñas, banner | `enable` |
+| 1. Preparación inicial (acceso básico) | Acceder y asegurar el equipo | Consola, modo privilegiado, hostname, contraseñas, banner | `enable`- Modo privilegiado, 
+`configure terminal` - modo configuracion global|
+| 2. Configuracion base del sistema | Parametros minimos operativos | Hora. logs, locales, guardado config | `clock set` - ajustar hora
+`logging buffered` - logs locales|
 
 
